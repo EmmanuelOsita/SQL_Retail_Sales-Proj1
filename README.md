@@ -43,8 +43,11 @@ total_sale int
 **2. Data Clearning & Exploration**
 
 **Record Count**: Determine the total number of records in the dataset.
+
 **Customer Count**: Find out how many unique customers are in the dataset.
+
 **Category Count**: Identify all unique product categories in the dataset.
+
 **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ```sql
